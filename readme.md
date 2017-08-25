@@ -1,4 +1,4 @@
-# Short Link TEst
+# Short Link Test
 
 ## Description
 
